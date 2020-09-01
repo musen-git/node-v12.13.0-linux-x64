@@ -1,4 +1,4 @@
-FROM hub.mlamp.cn/public/centos:7
+FROM registry.cn-beijing.aliyuncs.com/app-and-cluster/centos:7
 MAINTAINER  "merp"
 WORKDIR /usr/local/node-v12.13.0-linux-x64
 ## install JDK
